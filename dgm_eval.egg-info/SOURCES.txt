@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+dgm_eval/__init__.py
+dgm_eval/__main__.py
+dgm_eval/dataloaders.py
+dgm_eval/representations.py
+dgm_eval/resizer.py
+dgm_eval.egg-info/PKG-INFO
+dgm_eval.egg-info/SOURCES.txt
+dgm_eval.egg-info/dependency_links.txt
+dgm_eval.egg-info/entry_points.txt
+dgm_eval.egg-info/requires.txt
+dgm_eval.egg-info/top_level.txt
+tests/test_url.py
